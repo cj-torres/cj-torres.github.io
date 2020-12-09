@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Yiyun Zhao | Academic</title>
+    <link>/author/yiyun-zhao/</link>
+      <atom:link href="/author/yiyun-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yiyun Zhao</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Yiyun Zhao</title>
+      <link>/author/yiyun-zhao/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/torresamlap-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/torresamlap-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Length of time with a writing system predicts greater morpho-syntactic complexity</title>
-      <link>/publication/torresevolang-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/torresevolang-2020/</guid>
       <description></description>
     </item>
     

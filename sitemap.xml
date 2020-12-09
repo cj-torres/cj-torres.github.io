@@ -3,11 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2020-12-09T14:35:54-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
+    <lastmod>2020-12-09T14:35:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrew-wedel/</loc>
+    <lastmod>2020-12-09T14:35:53-07:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-12-09T14:35:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/charles-torres/</loc>
+    <lastmod>2020-12-09T14:35:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/torresamlap-2020/</loc>
+    <lastmod>2020-12-09T14:35:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/torresevolang-2020/</loc>
+    <lastmod>2020-12-09T14:35:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/masha-fedzechkina/</loc>
+    <lastmod>2020-12-09T14:35:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-12-09T14:35:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-12-09T14:35:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yiyun-zhao/</loc>
+    <lastmod>2020-12-09T14:35:54-07:00</lastmod>
   </url>
   
   <url>
@@ -20,14 +67,6 @@
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
   </url>
   
   <url>
