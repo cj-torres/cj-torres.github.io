@@ -5,28 +5,12 @@
     <link>/author/charles-torres/</link>
       <atom:link href="/author/charles-torres/index.xml" rel="self" type="application/rss+xml" />
     <description>Charles Torres</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Charles Torres</title>
       <link>/author/charles-torres/</link>
     </image>
-    
-    <item>
-      <title>Dependency length minimization: an abstract bias or an input-driven preference?</title>
-      <link>/publication/torresamlap-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/torresamlap-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Length of time with a writing system predicts greater morpho-syntactic complexity</title>
-      <link>/publication/torresevolang-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/torresevolang-2020/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
